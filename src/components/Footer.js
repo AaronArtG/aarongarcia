@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
-  return <footer>We can be Friends</footer>;
+  return <footer>See the palm trees wave in the wind</footer>;
 };
 
 export default Footer;
